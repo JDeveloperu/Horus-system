@@ -1,0 +1,23 @@
+{
+  "name": "horus-system-mlm",
+  "version": "1.0.0",
+  "description": "System Horus Global",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JDeveloperu/Horus-system.git"
+  },
+  "author": "CDX-Solutions",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JDeveloperu/Horus-system/issues"
+  },
+  "homepage": "https://github.com/JDeveloperu/Horus-system#readme",
+  "dependencies": {
+    "module": "^1.2.5"
+  }
+}

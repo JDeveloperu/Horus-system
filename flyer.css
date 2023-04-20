@@ -1,0 +1,41 @@
+.flyer {
+  background: linear-gradient(to bottom right, #0089ff, #3ff2ff, #c058f3, #f25bcb);
+  border-radius: 20px;
+  padding: 40px;
+  text-align: center;
+  color: white;
+  font-family: sans-serif;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 20px;
+}
+
+h1 {
+  font-size: 36px;
+  margin-bottom: 20px;
+}
+
+p {
+  font-size: 24px;
+  line-height: 1.5;
+  margin-bottom: 40px;
+}
+
+a {
+  display: inline-block;
+ /* background: white;*/
+  color: #0089ff;
+  padding: 10px 20px;
+  border-radius: 30px;
+  text-decoration: none;
+  font-size: 24px;
+  transition: background 0.3s, color 0.3s;
+}
+
+/*a:hover {
+  background: #0089ff;
+  color: white;
+}
