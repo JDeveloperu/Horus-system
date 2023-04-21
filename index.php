@@ -53,17 +53,20 @@
 
     <style>
   body {
-    background-image: url('imagenes/fondo.jpg');
+    background-image: url('imagenes/cobertura.png');
+    background-color: black ;
     background-size: cover;
+    background-position: center;
+    
   }
 </style>
 
     <body>
 
     <div style="text-align: center;">
+        <span> <br><br><br><br><br><img src="imagenes/logo-horizontal.png" alt="Logo horizontal" style="width: 300px; height: 100px;"></span>
+    </div>
 
-                     <img src="imagenes/logo-horizontal.png" alt="Logo horizontal" style="width: 250px; height: 90px;">
-                </div>
         <div id="layoutAuthentication">
             <div id="layoutAuthentication_content">
                 <main>
@@ -103,7 +106,6 @@
                     </div>
                 </main>
             </div>
-            <br><br> 
             <div id="layoutAuthentication_footer">
                 <footer class="py-4 bg-light mt-auto">
                     <div class="container-fluid px-4">
